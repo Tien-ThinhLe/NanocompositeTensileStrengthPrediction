@@ -4,6 +4,6 @@ After selecting the value of input variables, the tensile strength of polymer na
 
 Contributor: Tien-Thinh Le
 
-Reference: Tien-Thinh Le, Prediction of Tensile Strength of Polymer Carbon Nanotube Composites using Machine Learning Method, submitted to Composites Science and Technology, 2020
+Reference: Tien-Thinh Le, Prediction of Tensile Strength of Polymer Carbon Nanotube Composites using Machine Learning Method, 2020
 
 Email: letienthinh@duytan.edu.vn; tienthinhle.vn@gmail.com
