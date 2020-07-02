@@ -2,7 +2,7 @@ We contribute here a Matlab Graphical User Interface (GUI) for predicting the te
 
 After selecting the value of input variables, the tensile strength of polymer nanocomposite is displayed directly by clicking the Start Predict button.
 
-Contributor: Tien-Thinh Le
+Contributor: Tien-Thinh Le, Université Paris-Est, Laboratoire Modélisation et Simulation Multi Echelle, MSME UMR 8208 CNRS, 5 bd Descartes, 77454 Marne-la-Vallée, France
 
 Reference: Tien-Thinh Le, Prediction of Tensile Strength of Polymer Carbon Nanotube Composites using Practical Machine Learning Method, 2020
 
